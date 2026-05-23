@@ -1,0 +1,43 @@
+.main-title {
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: #14532d;
+    text-align: center;
+}
+
+.sub-title {
+    color: gray;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.result-card {
+    border-radius: 12px;
+    padding: 1.5rem;
+    margin-top: 1rem;
+    border: 2px solid;
+}
+
+.category-card {
+    border-radius: 10px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+.category-name {
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.category-desc {
+    font-size: 0.85rem;
+    color: gray;
+}
+
+.chip {
+    background: #dcfce7;
+    padding: 5px 15px;
+    border-radius: 999px;
+    margin: 4px;
+    display: inline-block;
+}
